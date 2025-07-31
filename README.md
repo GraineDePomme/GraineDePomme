@@ -14,7 +14,7 @@
 
 - Google Data Analytics
 - Google Advanced Data Analytics
-- Basic of Quantum Information
+- Basics of Quantum Information
 - (ongoing) Fundamentals of Quantum Algorithms
 
 
