@@ -2,8 +2,8 @@
 
 ### 📓Education
 
-- Associate's degree : Physics, University of Bordeaux (France)
-- Bachelor's degree : Computer science, University of the People
+- Associate's degree : **Physics**, University of Bordeaux (France).
+- Bachelor's degree : **Computer science**, University of the People.
 
 <!--
 **GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
