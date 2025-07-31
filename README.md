@@ -3,12 +3,19 @@
 ### 🎓 Education
 
 - Associate's degree : **Physics**, University of Bordeaux (France).
-- Bachelor's degree : **Computer science**, University of the People.
+- (ongoing) Bachelor's degree : **Computer science**, University of the People.
 
 ### 💼 Work Experience
 
 - Data Analyst : **Asobo Studio**, Bordeaux
 - Statistician : **OpinonWay**, Krakow
+
+### ✍🏻 Certifications
+
+- Google Data Analytics
+- Google Advanced Data Analytics
+- Basic of Quantum Information
+- (ongoing) Fundamentals of Quantum Algorithms
 
 
 
