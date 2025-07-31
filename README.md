@@ -12,8 +12,8 @@
 
 ### ✍🏻 Certifications
 
-- [Google Data Analytics]([https://pages.github.com/](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8))
-- [Google Advanced Data Analytics]([[https://pages.github.com/](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)))
+- [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
+- [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
 - Basics of Quantum Information
 - (ongoing) Fundamentals of Quantum Algorithms
 
