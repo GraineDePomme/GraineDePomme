@@ -18,7 +18,7 @@ Former physics student, currently working as a data analyst by day and studying 
 
 - [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
 - [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
-- Basics of Quantum Information
+- (ongoing) Basics of Quantum Information
 - (ongoing) Fundamentals of Quantum Algorithms
 
 
