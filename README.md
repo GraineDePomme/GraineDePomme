@@ -24,6 +24,7 @@ Former physics student, currently working as a data analyst by day and studying 
 - [x] [Quantum Business Foundations](https://www.credly.com/badges/9b75bed7-feca-438c-8360-232f418357ef/public_url)
 - [ ] (ongoing) Basics of Quantum Information
 - [ ] (Futur) Fundamentals of Quantum Algorithms
+- [ ] (Futur) IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
 
 ### 🖥️ Quantum Computing Projects
 
