@@ -19,13 +19,19 @@ Former physics student, currently working as a data analyst by day and studying 
 - [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
 - [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
 
-### ⚛️ Quantum Computing
+### ⚛️ Quantum Computing Certificates
 
-- [Quantum Business Foundations](https://www.credly.com/badges/9b75bed7-feca-438c-8360-232f418357ef/public_url)
-- (ongoing) Basics of Quantum Information
-- (ongoing) Fundamentals of Quantum Algorithms
+- [x] [Quantum Business Foundations](https://www.credly.com/badges/9b75bed7-feca-438c-8360-232f418357ef/public_url)
+- [ ] (ongoing) Basics of Quantum Information
+- [ ] (Futur) Fundamentals of Quantum Algorithms
 
+### 🖥️ Quantum Computing Projects
 
+- [ ] (Ongoing) Practical Introduction to Quantum-Safe Cryptography
+- [ ] (Futur) Quantum Machine Learning
+- [ ] (Futur) Variational Algorithm Design
+- [ ] (Futur) Quantum Chemistry with Variational Quantum Eigensolver
+- [ ] (Futur) Quantum Diagonalization Algorithms
 
 <!--
 **GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
