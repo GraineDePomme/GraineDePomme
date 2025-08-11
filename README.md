@@ -22,8 +22,8 @@ Former physics student, currently working as a statistician by day and studying 
 ### ⚛️ Quantum Computing Certificates
 
 - [x] [Quantum Business Foundations](https://www.credly.com/badges/9b75bed7-feca-438c-8360-232f418357ef/public_url)
-- [ ] (ongoing) Basics of Quantum Information
-- [ ] (Futur) Fundamentals of Quantum Algorithms
+- [x] [Basics of Quantum Information](https://www.credly.com/badges/9c22b845-f73b-48e8-aec2-994362814696/public_url)
+- [ ] (ongoing) Fundamentals of Quantum Algorithms
 
 <!--
 **GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
