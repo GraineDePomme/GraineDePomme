@@ -7,7 +7,6 @@ Former physics student, currently working as a statistician by day and studying 
 ### 🎓 Education
 
 - Associate's degree : **Physics**, University of Bordeaux (France).
-- (ongoing) Bachelor's degree : **Computer science**, University of the People.
 
 ### 💼 Work Experience
 
@@ -19,13 +18,10 @@ Former physics student, currently working as a statistician by day and studying 
 - [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
 - [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
 
-### ⚛️ Quantum Computing Certificates
+### ⚛️ Projects
 
 - [x] [Quantum Business Foundations](https://www.credly.com/badges/9b75bed7-feca-438c-8360-232f418357ef/public_url)
 - [x] [Basics of Quantum Information](https://www.credly.com/badges/9c22b845-f73b-48e8-aec2-994362814696/public_url)
-- [x] [Practical Introduction to Quantum-Safe Cryptography](https://www.credly.com/badges/ee52005b-7c4a-4c98-bc20-3f22c9757858/public_url)
-- [ ] (ongoing) Fundamentals of Quantum Algorithms
-- [ ] (ongoing) IBM certified Associate Developer - Quantum Computation using Qiskit v0.2x
 
 <!--
 **GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
