@@ -10,7 +10,7 @@ Former physics student, currently working as a data analyst by day and studying 
 
 ### 💼 Work Experience
 
-- Statistician |Panel Manager : **OpinonWay**, Krakow - Poland
+- Statistician | Panel Manager : **OpinonWay**, Krakow - Poland
 - Data Analyst | QA Engineer : **Asobo Studio**, Bordeaux - France
 
 ### ✍🏻 Certifications
@@ -20,7 +20,7 @@ Former physics student, currently working as a data analyst by day and studying 
 
 ### ⚛️ Projects
 
-
+This part is a big WIP, but I'm actively working on expending it with some cool stuff about data engineering and machine learning so stay tuned ! 
 
 - [ ] [(WIP) Analyzing airbnb dataset (SQL, Databricks)](https://github.com/GraineDePomme/analyzing-airbnb-dataset)
 
