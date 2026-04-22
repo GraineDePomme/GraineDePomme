@@ -10,8 +10,8 @@ Former physics student, currently working as a data analyst by day and studying 
 
 ### 💼 Work Experience
 
-- Data Analyst : **Asobo Studio**, Bordeaux - France
-- Statistician : **OpinonWay**, Krakow - Poland
+- Statistician |Panel Manager : **OpinonWay**, Krakow - Poland
+- Data Analyst | QA Engineer : **Asobo Studio**, Bordeaux - France
 
 ### ✍🏻 Certifications
 
