@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ A Few Words About Me
 
-Former physics student, currently working as a data analyst by day and studying science at night. I'm passionate about solving problems and applied matehmatics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except brocolli — and I'm terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
+Former physics student, currently working as a data analyst by day and studying science at night. I'm passionate about solving problems and applied mathematics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except brocolli — and I'm terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
 
 ### 🎓 Education
 
