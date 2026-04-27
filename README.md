@@ -2,16 +2,19 @@
 
 ### 🙋‍♂️ A Few Words About Me
 
-Former physics student, currently working as a data analyst by day and studying science at night. I'm passionate about solving problems and applied mathematics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except brocolli — and I'm terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
+Former physics student, currently working as a data analyst by day and studying physics at night. I'm passionate about solving problems and applied mathematics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except brocolli — and I'm terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
 
 ### 🎓 Education
 
 - Associate's degree : **Physics**, University of Bordeaux (France).
+- **(IN PROGESS)** Bachelor's degree : **Physics**, Linnaeus University (Sweden).
 
 ### 💼 Work Experience
 
 - Statistician | Panel Manager : **OpinonWay**, Krakow - Poland
-- Data Analyst | QA Engineer : **Asobo Studio**, Bordeaux - France
+- Presentation Designer : **OpinonWay**, Krakow - Poland
+- Data Analyst : **Asobo Studio**, Bordeaux - France
+- QA Tester : **Asobo Studio**, Bordeaux - France
 
 ### ✍🏻 Certifications
 
@@ -20,9 +23,9 @@ Former physics student, currently working as a data analyst by day and studying 
 
 ### ⚛️ Projects
 
-This part is a big WIP, but I'm actively working on expending it with some cool stuff about data engineering and machine learning so stay tuned ! 
+This part is not ready yet, but I'm actively working on expending it with some cool stuff about programming and data analytics so stay tuned! 
 
-- [ ] [(WIP) Analyzing airbnb dataset (SQL, Databricks)](https://github.com/GraineDePomme/analyzing-airbnb-dataset)
+<!-- - [ ] [(WIP) Analyzing Competitor Sales Data](https://github.com/GraineDePomme/analyzing-airbnb-dataset) -->
 
 <!--
 **GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
