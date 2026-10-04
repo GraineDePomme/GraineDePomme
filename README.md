@@ -24,3 +24,4 @@ Former physics student, currently working as a data analyst by day and studying 
 
 - [X] [Simulation of a low-pass filter electronic circuit in C](https://github.com/GraineDePomme/low_pass_filter)
 - [X] [Solving the Lotka-Volterra equations in C](https://github.com/GraineDePomme/lotka_volterra)
+- [ ] [Solving the Lorenz equations in C](https://github.com/GraineDePomme/lorenz_equations)
