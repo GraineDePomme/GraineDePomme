@@ -2,42 +2,25 @@
 
 ### 🙋‍♂️ A Few Words About Me
 
-Former physics student, currently working as a data analyst by day and studying physics at night. I'm passionate about solving problems and applied mathematics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except brocolli — and I'm terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
+Former physics student, currently working as a data analyst by day and studying computer science at night. I'm passionate about mathematics and its applications in computer science and computational physics. When I'm not working or studying, I play guitar and fly planes. I like everything that is green — except broccoli — but I'm also terrible at keeping houseplants alive, so I prefer hiking to enjoy nature instead. I was born in France but tend to live elsewhere and I like to move around; right now you can find me in Poland. 
+
+### 💼 Work Experience
+
+- Data Analyst | Production Manager : **OpinonWay**, Krakow - Poland
+- Data Analyst : **Asobo Studio**, Bordeaux - France
+- QA Tester : **Asobo Studio**, Bordeaux - France
 
 ### 🎓 Education
 
 - Associate's degree : **Physics**, University of Bordeaux (France).
-- **(IN PROGESS)** Bachelor's degree : **Physics**, Linnaeus University (Sweden).
-
-### 💼 Work Experience
-
-- Statistician | Panel Manager : **OpinonWay**, Krakow - Poland
-- Presentation Designer : **OpinonWay**, Krakow - Poland
-- Data Analyst : **Asobo Studio**, Bordeaux - France
-- QA Tester : **Asobo Studio**, Bordeaux - France
 
 ### ✍🏻 Certifications
 
-- [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
+- [Open Source Software Development, Linux and Git](https://www.coursera.org/account/accomplishments/specialization/60XZG1BRJHXS)
 - [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
+- [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
 
-### ⚛️ Projects
+### ⚛️ Personnal Projects
 
-This part is not ready yet, but I'm actively working on expending it with some cool stuff about programming and data analytics so stay tuned! 
-
-<!-- - [ ] [(WIP) Analyzing Competitor Sales Data](https://github.com/GraineDePomme/analyzing-airbnb-dataset) -->
-
-<!--
-**GraineDePomme/GraineDePomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [X] [Simulation of a low-pass filter electronic circuit in C](https://github.com/GraineDePomme/low_pass_filter)
+- [X] [Solving the Lotka-Volterra equations in C](https://github.com/GraineDePomme/lotka_volterra)
