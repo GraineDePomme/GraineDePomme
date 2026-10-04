@@ -20,8 +20,8 @@ Former physics student, currently working as a data analyst by day and studying 
 - [Google Advanced Data Analytics](https://coursera.org/share/7a254b69e311190d083f57167fda63ae)
 - [Google Data Analytics](https://coursera.org/share/90cca58488c199a03cda3dfcd3894dd8)
 
-### ⚛️ Personnal Projects
+### ⚛️ Personal Projects
 
 - [X] [Simulation of a low-pass filter electronic circuit in C](https://github.com/GraineDePomme/low_pass_filter)
 - [X] [Solving the Lotka-Volterra equations in C](https://github.com/GraineDePomme/lotka_volterra)
-- [ ] [Solving the Lorenz equations in C](https://github.com/GraineDePomme/lorenz_equations)
+- [X] [Solving the Lorenz equations in C](https://github.com/GraineDePomme/lorenz_equations)
